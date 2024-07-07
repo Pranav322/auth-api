@@ -87,3 +87,4 @@ temp/
 
 # MacOS files
 .DS_Store
+.vercel
